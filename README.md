@@ -2,7 +2,7 @@
 
 ### Sobre mim 
 
-- 🔭 Trabalho com Rádio operação
+- 🔭 Desenvolvedor Web Júnior
 - 👨‍🎓 Estudando Analise e Desenvolvimento de Sistemas
 - 😄 Pronouns: Ele/Dele
 
