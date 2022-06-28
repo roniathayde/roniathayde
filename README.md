@@ -2,7 +2,7 @@
 
 ### Sobre mim 
 
-- 🔭 Desenvolvedor Web Júnior
+- 🔭 Desenvolvedor Front End Júnior
 - 👨‍🎓 Estudando Analise e Desenvolvimento de Sistemas
 - 😄 Pronouns: Ele/Dele
 
