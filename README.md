@@ -6,6 +6,9 @@
 - 👨‍🎓 Estudando Analise e Desenvolvimento de Sistemas
 - 😄 Pronouns: Ele/Dele
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+
 <div align="center">
   <a href="https://github.com/ronithade">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronithade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
