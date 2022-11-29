@@ -10,9 +10,9 @@
 
 
 <div align="center">
-  <a href="https://github.com/ronithade">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronithade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronithade&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/roniathayde">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roniathayde&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roniathayde&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   
