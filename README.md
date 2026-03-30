@@ -10,4 +10,4 @@ Founder @Suryamed.
 </div>
 <br>
 <br>
-"Desenvolvedor formado em Análise e Desenvolvimento de Sistemas e co-fundador da SuryaMed, sou apaixonado por programação e pela transformação de vidas através de tecnologia acessível. Com mais de 100.000 pessoas impactadas por meus projetos, acredito firmemente que a persistência e o trabalho duro superam qualquer outro fator, seja talento ou qualquer outra bênção. Cada linha de código que escrevo carrega meu compromisso em promover mudanças reais, sempre com o propósito de tornar a tecnologia um facilitador acessível para todos."
+"Desenvolvedor formado em Análise e Desenvolvimento de Sistemas, sou apaixonado por programação e pela transformação de vidas através de tecnologia acessível. Com mais de 100.000 pessoas impactadas por meus projetos, acredito firmemente que a persistência e o trabalho duro superam qualquer outro fator, seja talento ou qualquer outra bênção. Cada linha de código que escrevo carrega meu compromisso em promover mudanças reais, sempre com o propósito de tornar a tecnologia um facilitador acessível para todos."
